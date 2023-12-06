@@ -1,0 +1,21 @@
+Round 1: Fundamentals questions related to Javascript and React. In React questions were focused on react-hooks. lifecycle components and optimization techniques in react. Basic to intermediate questions related to Redux and Redux-Saga.
+
+ Round 2: The interview panel will ask you to code some basic coding problem depending on your relevant experience and if you're not able to solve it they'll directly say they're done with the interview. In some case they'll ask you to develop a small React Component. eg) Progress Bar - (from scratch, can't use any 3rd party libraries or HTML progress bar element)
+
+ 3: Some technical question and coding test. basic palindrom, and some basic algo question
+
+ 4: Coding test is medium level.easy question of array and sorting
+ 5: The question around react and redux
+ 
+
+ 6:Q3. Remove character
+For a given string(str) and a character X, write a function to remove all the occurrences of X from the given string and return it.
+The input string will remain unchanged if the given character(X) doesn't exist in the input string.
+Input Format:
+The first line of input contains a string without any leading and trailing spaces. The second line of input contains a character(X) without any leading and trailing spaces.
+Output Format:
+The only line of output prints the updated string.
+Note:
+You are not required to print anything explicitly. It has already been taken care of.
+Constraints:
+0 <= N <= 10^6 Where N is the length of the input string. Time Limit: 1 second
